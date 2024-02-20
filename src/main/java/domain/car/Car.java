@@ -3,6 +3,7 @@ package domain.car;
 import domain.moveStrategy.MoveStrategy;
 
 public class Car {
+    //TODO : 타칸이랑 Co-Author 설정하기
 
     private final CarName name;
     private int location;
